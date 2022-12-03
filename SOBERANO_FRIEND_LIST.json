@@ -1,0 +1,46 @@
+[
+    {
+        "First_Name" : "IVYGAIL",
+        "Last_Name" : "SOBERANO",
+        "Age" : "21",
+        "Address" : "TIGBAUAN",
+        "Contact_Number" : "09380164255"
+    },
+  
+    {
+        "Friends List" : [
+          {
+              "Name": "Monique",
+              "Age": "21",
+              "Address": "Pavia",
+              "Likes" :"SINGING",
+              "Dislikes" : "Filipino Subject", 
+              "Feeling" : "Tired"
+          },
+          {
+            "Name": "Nerma",
+            "Age": "21",
+            "Address": "Antique",
+            "Likes" :"SINGING",
+            "Dislikes" : "Filipino Subject", 
+            "Feeling" : "Tired"
+        },
+          {
+            "Name": "Al Jude",
+            "Age": "23",
+            "Address": "Pavia",
+            "Likes" :"Biking",
+            "Dislikes" : "Filipino", 
+            "Feeling" : "Tired"
+          },
+          {
+            "Name": "Cyril",
+            "Age": "22",
+            "Address": "Pototan",
+            "Likes" :"Ariana Grande",
+            "Dislikes" : "Blank space", 
+            "Feeling" : "Gorgeous"
+          }]
+      }
+ 
+]
